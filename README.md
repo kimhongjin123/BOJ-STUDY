@@ -69,7 +69,6 @@ for _ in range(T):
     N, M = map(int, input().split())
     print(comb(M, N))
 ```
-```
 
 추가로 개선할 점이나 더 나은 알고리즘이 있는지 물어보는 것도 좋습니다!
 
